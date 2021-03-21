@@ -6,6 +6,8 @@
 
 - 🧑‍💻 I can Code in C++ and Python. (learning new languages)
 
+-  ⚙️ I can develop IOS & Android apps.
+
 - ❓ You can ask me any Cyber security related question.
 
 -  📥 The best way to reach me is through Discord (jay2002#9765)
