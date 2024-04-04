@@ -1,6 +1,1 @@
-### Hi there 👋
-
-👉 My name is Jason Salem.
-
-- 👷‍♂️ I'm a Computer Engineer, Programmer and Cyber Security enthusiast.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;%F0%9F%91%89+My+name+is+Jason+Salem.;I'm+a+Computer+Engineer%2C+Programmer;and+Cyber+Security+enthusiast.)](https://git.io/typing-svg)
